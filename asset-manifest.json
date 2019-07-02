@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shop-titan-react-redux/static/css/main.89ecc2b1.chunk.css",
+    "main.js": "/shop-titan-react-redux/static/js/main.437a5a10.chunk.js",
+    "main.js.map": "/shop-titan-react-redux/static/js/main.437a5a10.chunk.js.map",
+    "runtime~main.js": "/shop-titan-react-redux/static/js/runtime~main.4e1096fa.js",
+    "runtime~main.js.map": "/shop-titan-react-redux/static/js/runtime~main.4e1096fa.js.map",
+    "static/js/2.2976057b.chunk.js": "/shop-titan-react-redux/static/js/2.2976057b.chunk.js",
+    "static/js/2.2976057b.chunk.js.map": "/shop-titan-react-redux/static/js/2.2976057b.chunk.js.map",
+    "index.html": "/shop-titan-react-redux/index.html",
+    "precache-manifest.99e5f35adb4575c5d6baff03b68dba3d.js": "/shop-titan-react-redux/precache-manifest.99e5f35adb4575c5d6baff03b68dba3d.js",
+    "service-worker.js": "/shop-titan-react-redux/service-worker.js",
+    "static/css/main.89ecc2b1.chunk.css.map": "/shop-titan-react-redux/static/css/main.89ecc2b1.chunk.css.map"
+  }
+}
